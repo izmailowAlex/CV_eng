@@ -82,7 +82,7 @@ function stairsIn20(a) {
 * 2005 - 2006 -- Gomel Rural House of Culture (artistic director)
 * 2010 - 2020 -- Belorussian State Philarmony (ensemble artist)
 * 2020 - 2023 -- Exemplary Orchestra of the Internal Troops (orchestra artist)
-* 2023 - until now -- Hotel "Rixos Bab al Bahr 5*" (Dubai, Ras-al-Khaima) (coverband musician)
+* june 2023 - october 2023 -- Hotel "Rixos Bab al Bahr 5*" (Dubai, Ras-al-Khaima) (coverband musician)
 
 ---
 
